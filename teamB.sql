@@ -14,3 +14,5 @@
     CONSTRAINT users_email_key UNIQUE (email),
     CONSTRAINT users_username_key UNIQUE (username)
 )"""     
+
+
