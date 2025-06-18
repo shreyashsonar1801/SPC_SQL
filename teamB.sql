@@ -13,4 +13,4 @@
     CONSTRAINT users_pkey PRIMARY KEY (user_id),
     CONSTRAINT users_email_key UNIQUE (email),
     CONSTRAINT users_username_key UNIQUE (username)
-)"""
+)"""     
